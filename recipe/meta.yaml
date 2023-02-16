@@ -1,5 +1,5 @@
 {% set name = "txtorcon" %}
-{% set version = "22.0.0" %}
+{% set version = "23.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/txtorcon-{{ version }}.tar.gz
-  sha256: 89a1b65e32a4b369d67e6c166387fbc468cc5d05227448d239a5e7e9718aa053
+  sha256: 0225ffad67689137849ad9ad34adb569b0d88f9af0450300067a5f901e994325
 
 build:
   noarch: python
