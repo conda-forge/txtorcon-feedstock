@@ -18,12 +18,12 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.5
+    - python >=3.8
   run:
     - automat
     - cryptography
     - incremental
-    - python >=3.5
+    - python >=3.8
     - twisted >=15.5.0
     - zope.interface >=3.6.1
 
