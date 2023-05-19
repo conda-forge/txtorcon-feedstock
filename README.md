@@ -1,11 +1,11 @@
-About txtorcon
-==============
+About txtorcon-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/txtorcon-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/meejah/txtorcon
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/txtorcon-feedstock/blob/main/LICENSE.txt)
 
 Summary: Twisted-based Tor controller client, with state-tracking and configuration abstractions.
 
