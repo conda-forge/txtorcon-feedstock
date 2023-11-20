@@ -22,7 +22,6 @@ requirements:
   run:
     - automat
     - cryptography
-    - incremental
     - python >=3.8
     - twisted >=15.5.0
     - zope.interface >=3.6.1
